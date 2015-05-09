@@ -1,3 +1,7 @@
 a .icon:hover {
   cursor: pointer;
 }
+
+div.about-me {
+  padding: 0 3em;
+}
